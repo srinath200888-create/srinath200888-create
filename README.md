@@ -37,8 +37,8 @@ Python
 JavaScript
 HTML / CSS
 Git & GitHub
-Blender
-Unity
+AI projects
+ML rooling on
 ```
 
 ## 📌 Currently Learning

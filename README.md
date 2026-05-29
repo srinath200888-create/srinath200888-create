@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**srinath200888-create/srinath200888-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Srinath:
+    def __init__(self):
+        self.role = "AI Builder & Developer"
+        self.location = "India"
+        self.focus = [
+            "AI Tools",
+            "Browser Extensions",
+            "Startup Systems",
+            "Automation",
+            "Frontend Development"
+        ]
+```
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Building AI-powered tools and browser extensions
+* Exploring full-stack web development
+* Creating productivity and automation systems
+* Learning scalable startup architecture
+* Designing futuristic product concepts
+
+## 🧠 AI & Technical Projects
+
+* 🤖 AI-based productivity concepts
+* 🧩 Chrome extensions for distraction removal
+* 🌐 Website and SaaS product experiments
+* 🎨 UI/UX focused frontend projects
+* ⚡ Automation workflows and tool systems
+
+## 💻 Tech Stack
+
+```txt
+Python
+JavaScript
+HTML / CSS
+Git & GitHub
+Blender
+Unity
+```
+
+## 📌 Currently Learning
+
+* Full-stack development
+* AI integrations
+* Product building
+* System design
+* Startup scaling
+
+## ⚡ Philosophy
+
+```txt
+Build > Talk
+Execution > Ideas
+Consistency > Motivation
+
